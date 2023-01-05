@@ -2,6 +2,10 @@
 
 ---
 
+> **Warning** WIP - Functioning prototype not built yet.
+>
+> Components ordered (2023-01-06), will be ordering PCB's in the next few days.
+
 ![Exp60 Layout](exp60.png "Exp60 Layout")
 
 [Link to Keyboard Layout Editor project](http://www.keyboard-layout-editor.com/#/gists/84f70adc6e3be321baacc794c3d78efd)
@@ -30,10 +34,10 @@ To meet design constraint 5, the space bar needs to be shrunk to 2.75U. I've bee
 ## PCB Design choices
 
 1. All SMD components due to limited space.
-2. Use `atmega32u2au` MCU instead of `atmega32u4au` due to limited space (32 vs 48 pins).
-3. Large footprint SMD components so everything is hand solderable.
+2. Use `atmega32u2-au` MCU instead of `atmega32u4-au` due to limited space (32 vs 48 pins).
+3. Large footprint SMD components so everything is more easily hand solderable.
 
-## Inspirations
+## Acknowledgements
 
 - [JP60 by ai03](https://github.com/ai03-2725/JP60)
 
@@ -41,4 +45,4 @@ To meet design constraint 5, the space bar needs to be shrunk to 2.75U. I've bee
 
 - [Keyboard Matías](https://github.com/nstrappazzonc/keyboard)
 
-  This design uses the `atmega32u2au` MCU, which is crucial for fitting the MCU on my board.
+  This uses the `atmega32u2-au`, which is crucial for fitting the MCU and related traces on my PCB.
