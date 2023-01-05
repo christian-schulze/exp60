@@ -3,4 +3,5 @@
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Type-C.pretty/Type-C.lib")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/USB4105-GF-A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
 )
