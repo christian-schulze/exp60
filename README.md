@@ -4,7 +4,8 @@
 
 > **Warning** WIP - Functioning prototype not built yet.
 >
-> Components ordered (2023-01-06), will be ordering PCB's in the next few days.
+> - Components ordered (2023-01-06).
+> - PCB's ordered (2023-01-07).
 
 ![Exp60 Layout](exp60.png "Exp60 Layout")
 
